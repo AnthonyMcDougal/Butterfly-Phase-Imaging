@@ -12,7 +12,7 @@ This code was prepared for use in MATLAB R2019b, and some scripts or functions r
 For an example of the essential data visualization techniques, please run `butterflyVizScript.m`. Depth location may be adjusted within the script where z-slices are noted. 
 
 ## Main figure images
-Run any of `makeFig1.m`, `makeFig2.m`, `makeFig3.m`, `makeFig4.m`,  `makeFig5AB.m`, `makeFig5CDEF.m`, `makeFig5G.m`, or `makeFig5H.m`,to produce the images and plots for the corresponding figure.
+Run any of `makeFig1.m`, `makeFig2.m`, `makeFig3.m`, `makeFig4.m`,  `makeFig5AB.m`, `makeFig5CDEF.m`, `makeFig5G.m`, or `makeFig5H.m`, to produce the images and plots for the corresponding figure.
 
 ## Analysis scripts 
 `analyzePhaseProfile.m` is an example script detailing the analysis of phase data for surface profile characteristics measurements plotted in `makeFig5H.m`. 
@@ -22,4 +22,4 @@ Run any of `makeFig1.m`, `makeFig2.m`, `makeFig3.m`, `makeFig4.m`,  `makeFig5AB.
 Functions called in the scripts above are included in the root folder.
 
 ## Data
-Data referred to by the above scripts are found in /RawData/, /Processed/, and /Measured/. 
+Data referred to by the above scripts are found in `/Processed/` and `/Measured/`. Data references in `/RawData/` will be forthcoming.
